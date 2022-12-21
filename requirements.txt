@@ -1,0 +1,8 @@
+# Python 3.8.3
+opencv-contrib-python==4.5.2.54
+numpy==1.20.3
+mediapipe==0.8.6
+
+# para degradar protobuf 
+# pip install protobuf==3.20.*
+protobuf==3.20.*
